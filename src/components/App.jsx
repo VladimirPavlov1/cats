@@ -4,8 +4,8 @@ import { Container } from "./App.styled";
 
 export const App = () => {
   return (
-    <div>
+    <Container>
       <Slider/>
-    </div>
+    </Container>
   );
 };
